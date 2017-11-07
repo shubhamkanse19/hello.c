@@ -1,3 +1,3 @@
 # hello.c
 this is hello.c
-this is new repository
+this is new file
